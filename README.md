@@ -1,0 +1,2 @@
+# StatMed
+R shiny application 
