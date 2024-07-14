@@ -1,2 +1,1 @@
-# StatMed
-R shiny application 
+
