@@ -1,17 +1,17 @@
 StatMed 📊
 
-StatMed is a Shiny-based application for data processing and statistical analysis, designed with a modular structure and interactive interface.
+StatMed est une application interactive développée avec R Shiny pour le traitement et l’analyse statistique des données, avec une interface structurée et modulaire.
 
-Features: 
-Multi-format data import (CSV, Excel, TXT)
-Data preprocessing and missing value handling
-Interactive data visualization
-Correlation analysis and regression modeling
-Statistical testing (chi-square, normality, correlation)
-Tech Stack
+Fonctionnalités: 
+Import de données (CSV, Excel, TXT)
+Prétraitement et gestion des valeurs manquantes
+Visualisation interactive des données
+Analyse de corrélation et régression linéaire
+Tests statistiques (chi-deux, normalité, corrélation)
+Technologies
 R (Shiny, shinydashboard)
 ggplot2, DT, reshape2
 
-Run: 
+Exécution:
 install.packages(c("shiny","shinydashboard","DT","ggplot2","reshape2","readxl"))
 shiny::runApp()
